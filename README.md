@@ -31,13 +31,6 @@
 
 ![Project 13](./ss/LCO-13-3.png)
 
-![Project 13](./ss/LCO-13-4.png)
-
-![Project 13](./ss/LCO-13-5.png)
-
-![Project 13](./ss/LCO-13-6.png)
-
-![Project 13](./ss/LCO-13-7.png)
 
 
 Here's a Screen-Shot of my project-13 and I learnt Most of my usefull Future of HTML and CSS.
